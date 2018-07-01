@@ -1,3 +1,3 @@
 # AdaCircleCalculator
 
-A program I made for ada
+A program I made for ada using Java (JDK)
